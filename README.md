@@ -13,4 +13,4 @@ Model; yaş, gol, asist ve oynanan dakika gibi verileri normalize eder ve Adam O
 iyi istatistikli bir oyuncu için yaklaşık **4 Milyon €** değer biçmektedir.
 ## Veri Seti (Dataset)
 Bu projede kullanılan veriler Kaggle üzerinden alınmıştır:
-(https://www.kaggle.com/datasets/davidcarelo/football-data-from-transfermarkt)
+https://www.kaggle.com/datasets/davidcariboo/player-scores
